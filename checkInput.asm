@@ -1,8 +1,4 @@
-;Subject : CSIS2083 Computer organisation and architect
-;Group project
-;Create an assembly language program to verify key in value is digit or character (e.g., 2 is digit / a is character)
-;Group member : (Lee Yi Fan , Teh Jun Yuan , Loh Chia Heung)
-;Academic Session : 2020C
+;Create an assembly language program to verify key in value is digit or character (e.g., 2 is digit / a is character
 
 
 ;equ directive
